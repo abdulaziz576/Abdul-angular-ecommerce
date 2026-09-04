@@ -20,7 +20,7 @@ interface Product {
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  storeName = 'Yashal Store';
+  storeName = 'Abdul Store';
   searchTerm = '';
   selectedCategory = 'All';
   cartCount = 0;
