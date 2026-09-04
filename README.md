@@ -1,4 +1,4 @@
-# Yashal Store - Angular Ecommerce Project
+# abdulaziz  Store - Angular Ecommerce Project
 
 This project was written from scratch to match the ecommerce assignment requirements.
 
